@@ -20,6 +20,9 @@
 # production
 /build
 
+# local form submissions
+/data/contact-submissions.json
+
 # misc
 .DS_Store
 *.pem

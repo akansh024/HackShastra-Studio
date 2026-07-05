@@ -1,0 +1,51 @@
+2026-06-28T09:20:25.311306Z  INFO tailwindcss_oxide::scanner: Provided sources:
+2026-06-28T09:20:25.311509Z  INFO tailwindcss_oxide::scanner: Source: PublicSourceEntry { base: "/Users/akanshpandey/Library/Mobile Documents/com~apple~CloudDocs/codes/Hackshastra.in", pattern: "**/*", negated: false }
+2026-06-28T09:20:25.312850Z  INFO tailwindcss_oxide::scanner: Optimized sources:
+2026-06-28T09:20:25.312864Z  INFO tailwindcss_oxide::scanner: Source: Auto { base: "/Users/akanshpandey/Library/Mobile Documents/com~apple~CloudDocs/codes/Hackshastra.in" }
+2026-06-28T09:20:25.313799Z  INFO discover_sources: tailwindcss_oxide::scanner: enter
+2026-06-28T09:20:25.313814Z  INFO discover_sources:walk_synchronous: tailwindcss_oxide::scanner: enter
+2026-06-28T09:20:25.315578Z  INFO discover_sources:walk_synchronous: tailwindcss_oxide::scanner: exit
+2026-06-28T09:20:25.316437Z  INFO tailwindcss_oxide::scanner: Reading "/Users/akanshpandey/Library/Mobile Documents/com~apple~CloudDocs/codes/Hackshastra.in/eslint.config.mjs"
+2026-06-28T09:20:25.316445Z  INFO tailwindcss_oxide::scanner: Reading "/Users/akanshpandey/Library/Mobile Documents/com~apple~CloudDocs/codes/Hackshastra.in/next.config.ts"
+2026-06-28T09:20:25.316466Z  INFO tailwindcss_oxide::scanner: Reading "/Users/akanshpandey/Library/Mobile Documents/com~apple~CloudDocs/codes/Hackshastra.in/public/file.svg"
+2026-06-28T09:20:25.316477Z  INFO tailwindcss_oxide::scanner: Reading "/Users/akanshpandey/Library/Mobile Documents/com~apple~CloudDocs/codes/Hackshastra.in/CLAUDE.md"
+2026-06-28T09:20:25.316490Z  INFO tailwindcss_oxide::scanner: Reading "/Users/akanshpandey/Library/Mobile Documents/com~apple~CloudDocs/codes/Hackshastra.in/src/app/icon.svg"
+2026-06-28T09:20:25.316490Z  INFO tailwindcss_oxide::scanner: Reading "/Users/akanshpandey/Library/Mobile Documents/com~apple~CloudDocs/codes/Hackshastra.in/postcss.config.mjs"
+2026-06-28T09:20:25.316518Z  INFO tailwindcss_oxide::scanner: Reading "/Users/akanshpandey/Library/Mobile Documents/com~apple~CloudDocs/codes/Hackshastra.in/src/app/privacy-policy/page.tsx"
+2026-06-28T09:20:25.316529Z  INFO tailwindcss_oxide::scanner: Reading "/Users/akanshpandey/Library/Mobile Documents/com~apple~CloudDocs/codes/Hackshastra.in/public/globe.svg"
+2026-06-28T09:20:25.316533Z  INFO tailwindcss_oxide::scanner: Reading "/Users/akanshpandey/Library/Mobile Documents/com~apple~CloudDocs/codes/Hackshastra.in/README.md"
+2026-06-28T09:20:25.316590Z  INFO tailwindcss_oxide::scanner: Reading "/Users/akanshpandey/Library/Mobile Documents/com~apple~CloudDocs/codes/Hackshastra.in/src/app/terms/page.tsx"
+2026-06-28T09:20:25.316648Z  INFO tailwindcss_oxide::scanner: Reading "/Users/akanshpandey/Library/Mobile Documents/com~apple~CloudDocs/codes/Hackshastra.in/package.json"
+2026-06-28T09:20:25.317280Z  INFO tailwindcss_oxide::scanner: Reading "/Users/akanshpandey/Library/Mobile Documents/com~apple~CloudDocs/codes/Hackshastra.in/src/app/layout.tsx"
+2026-06-28T09:20:25.317352Z  INFO tailwindcss_oxide::scanner: Reading "/Users/akanshpandey/Library/Mobile Documents/com~apple~CloudDocs/codes/Hackshastra.in/src/app/api/contact/route.ts"
+2026-06-28T09:20:25.317354Z  INFO tailwindcss_oxide::scanner: Reading "/Users/akanshpandey/Library/Mobile Documents/com~apple~CloudDocs/codes/Hackshastra.in/public/window.svg"
+2026-06-28T09:20:25.317355Z  INFO tailwindcss_oxide::scanner: Reading "/Users/akanshpandey/Library/Mobile Documents/com~apple~CloudDocs/codes/Hackshastra.in/src/app/page.tsx"
+2026-06-28T09:20:25.317425Z  INFO tailwindcss_oxide::scanner: Reading "/Users/akanshpandey/Library/Mobile Documents/com~apple~CloudDocs/codes/Hackshastra.in/tsconfig.json"
+2026-06-28T09:20:25.317427Z  INFO tailwindcss_oxide::scanner: Reading "/Users/akanshpandey/Library/Mobile Documents/com~apple~CloudDocs/codes/Hackshastra.in/src/components/contact-form.tsx"
+2026-06-28T09:20:25.317500Z  INFO tailwindcss_oxide::scanner: Reading "/Users/akanshpandey/Library/Mobile Documents/com~apple~CloudDocs/codes/Hackshastra.in/src/lib/contact-submissions.ts"
+2026-06-28T09:20:25.317701Z  INFO tailwindcss_oxide::scanner: Reading "/Users/akanshpandey/Library/Mobile Documents/com~apple~CloudDocs/codes/Hackshastra.in/public/next.svg"
+2026-06-28T09:20:25.317710Z  INFO tailwindcss_oxide::scanner: Reading "/Users/akanshpandey/Library/Mobile Documents/com~apple~CloudDocs/codes/Hackshastra.in/public/vercel.svg"
+2026-06-28T09:20:25.317734Z  INFO tailwindcss_oxide::scanner: Reading "/Users/akanshpandey/Library/Mobile Documents/com~apple~CloudDocs/codes/Hackshastra.in/AGENTS.md"
+2026-06-28T09:20:25.317838Z  INFO discover_sources: tailwindcss_oxide::scanner: exit
+2026-06-28T09:20:25.317850Z  INFO extract_candidates: tailwindcss_oxide::scanner: enter
+2026-06-28T09:20:25.317856Z  INFO extract_candidates:parse_all_blobs: tailwindcss_oxide::scanner: enter
+2026-06-28T09:20:25.317862Z  INFO extract_candidates:parse_all_blobs:extract: tailwindcss_oxide::scanner: enter
+2026-06-28T09:20:25.318470Z  INFO extract_candidates:parse_all_blobs:extract: tailwindcss_oxide::scanner: exit
+2026-06-28T09:20:25.318484Z  INFO extract_candidates:parse_all_blobs: tailwindcss_oxide::scanner: exit
+2026-06-28T09:20:25.318492Z  INFO extract_candidates:read_all_files: tailwindcss_oxide::scanner: enter
+2026-06-28T09:20:25.318498Z  INFO extract_candidates:read_all_files: tailwindcss_oxide::scanner: Reading 1 file(s)
+2026-06-28T09:20:25.318728Z  INFO extract_candidates:read_all_files: tailwindcss_oxide::scanner: Reading "/Users/akanshpandey/Library/Mobile Documents/com~apple~CloudDocs/codes/Hackshastra.in/src/app/globals.css"
+2026-06-28T09:20:25.318736Z  INFO extract_candidates:read_all_files: tailwindcss_oxide::scanner: exit
+2026-06-28T09:20:25.318742Z  INFO extract_candidates:extract_css_variables: tailwindcss_oxide::scanner: enter
+2026-06-28T09:20:25.318746Z  INFO extract_candidates:extract_css_variables:extract: tailwindcss_oxide::scanner: enter
+2026-06-28T09:20:25.318853Z  INFO extract_candidates:extract_css_variables:extract: tailwindcss_oxide::scanner: exit
+2026-06-28T09:20:25.318863Z  INFO extract_candidates:extract_css_variables: tailwindcss_oxide::scanner: exit
+2026-06-28T09:20:25.318997Z  INFO extract_candidates: tailwindcss_oxide::scanner: exit
+2026-06-28T09:20:25.319257Z  INFO get_files: tailwindcss_oxide::scanner: enter
+2026-06-28T09:20:25.319264Z  INFO get_files:discover_sources: tailwindcss_oxide::scanner: enter
+2026-06-28T09:20:25.319269Z  INFO get_files:discover_sources: tailwindcss_oxide::scanner: exit
+2026-06-28T09:20:25.319350Z  INFO get_files: tailwindcss_oxide::scanner: exit
+2026-06-28T09:20:25.319405Z  INFO get_globs: tailwindcss_oxide::scanner: enter
+2026-06-28T09:20:25.319411Z  INFO get_globs:discover_sources: tailwindcss_oxide::scanner: enter
+2026-06-28T09:20:25.319416Z  INFO get_globs:discover_sources: tailwindcss_oxide::scanner: exit
+2026-06-28T09:20:25.321126Z  INFO get_globs: tailwindcss_oxide::scanner: exit
